@@ -7,7 +7,6 @@
 
 ## General Information
 
-- What problem does it (intend to) solve?
 The analysis sought to understand the adoption of the blue cars across different time periods and location.
 This was done by conducting bvariate and univariate analysis to see how the blue car was used in the time under analysis.
 
